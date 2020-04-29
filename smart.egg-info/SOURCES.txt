@@ -1,0 +1,8 @@
+README.md
+setup.py
+smart/__init__.py
+smart/smart.py
+smart.egg-info/PKG-INFO
+smart.egg-info/SOURCES.txt
+smart.egg-info/dependency_links.txt
+smart.egg-info/top_level.txt
